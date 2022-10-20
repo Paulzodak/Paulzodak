@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Paul
+- 👀 I’m interested in creating highly interactive and user-friendly web applications.
+- 👥 I’m looking to collaborate on ... Web or Mobile Applications.
+- 📫 You can reach me on - https://zodaknewbornportfolio.netlify.app/
